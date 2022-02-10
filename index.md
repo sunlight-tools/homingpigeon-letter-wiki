@@ -1,39 +1,29 @@
-## Welcome to GitHub Pages
+## 信鸽相知
 
-You can use the [editor on GitHub](https://github.com/sunlight-tools/homingpigeon-letter-wiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Logo图片](./logo.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### 信鸽相知
+### 简介
 
 信鸽相知，是一款以手写体为特色的信函系统，基于用户关系和手写体验，打造熟人深度社交工具应用。
+熟人关系包括：个人、家庭、情侣、同学、师生等，让您的有温度、有态度、有情感的手写体文字传达真诚、热烈、深沉的情感，在平凡的生活中创造更多感动，让节日生活充满仪式感。
+活动主题包括：日记随笔、恭贺新春、生日祝福和214情人节，更多主题活动敬请期待，微信小程序搜索【信鸽相知】，期待大家的体验使用！
 
 ```markdown
-Syntax highlighted code block
+
 
 ## 微信小程序
 
-## 微信公众号
+二维码：
+![微信小程序二维码](./微信小程序-信鸽相知-二维码.jpg)
 
-## 微信群
 
-- Bulleted
-- List
+### 关注微信公众号
 
-1. Numbered
-2. List
+二维码：
+![微信公众号二维码](./微信公众号-信鸽相知-二维码.jpg)
 
-**Bold** and _Italic_ and `Code` text
+### 支持或联系微信群
 
-[Link](url) and ![Image](src)
-```
+二维码：
+![微信群二维码](./微信群-信鸽相知-二维码.jpg)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunlight-tools/homingpigeon-letter-wiki/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
